@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.wrapper{
+    padding-top: 5rem;
+    margin-top: 0;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+}
+.rm {
+    background: red;
+    margin-left: 5px;
+    border-radius: 50%;
+    color: #fff;
+    border: none;
+}
+
+.done{
+    text-decoration: line-through;
+}
